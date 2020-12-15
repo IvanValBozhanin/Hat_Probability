@@ -1,0 +1,1 @@
+Calculates probability of pulling balls with certain colour. Simulates many actions.
